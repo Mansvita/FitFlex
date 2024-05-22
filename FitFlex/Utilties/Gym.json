@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Push-ups",
+        "img": "Push-ups",
+        "description": "Push-ups are a common bodyweight exercise that primarily targets the chest, shoulders, and triceps. Start in a high plank position with hands shoulder-width apart, lower your body down by bending your elbows, and push back up to the starting position.",
+        "muscle_group": "Chest, Shoulders, Triceps"
+    },
+    {
+        "name": "Squats",
+        "img": "Squats",
+        "description": "Squats are a compound exercise that targets the lower body, including the quadriceps, hamstrings, and glutes. Stand with feet shoulder-width apart, lower your body down as if sitting back into a chair, and return to the starting position by pushing through your heels.",
+        "muscle_group": "Quadriceps, Hamstrings, Glutes"
+    },
+    {
+        "name": "Deadlifts",
+        "img": "Deadlifts",
+        "description": "Deadlifts are a compound exercise that targets multiple muscle groups, including the back, glutes, and hamstrings. Start with a barbell on the floor, bend your knees, grip the bar with hands shoulder-width apart, and lift the barbell by extending your hips and straightening your legs.",
+        "muscle_group": "Back, Glutes, Hamstrings"
+    },
+    {
+        "name": "Bench Press",
+        "img": "Bench Press",
+        "description": "The bench press is a weightlifting exercise that primarily targets the chest, shoulders, and triceps. Lie on a flat bench, grip the barbell with hands slightly wider than shoulder-width apart, lower the bar to your chest, and press it back up to the starting position.",
+        "muscle_group": "Chest, Shoulders, Triceps"
+    },
+    {
+        "name": "Dumbbell Lunges",
+        "img": "Dumbbell Lunges",
+        "description": "Dumbbell lunges are a unilateral exercise that targets the quadriceps, hamstrings, and glutes. Hold dumbbells in each hand, step forward with one leg, lower your body down by bending both knees, and push back up to the starting position.",
+        "muscle_group": "Quadriceps, Hamstrings, Glutes"
+    },
+    {
+        "name": "Pull-ups",
+        "img": "Pull-ups",
+        "description": "Pull-ups are an upper body exercise that primarily targets the back and biceps. Hang from a pull-up bar with hands slightly wider than shoulder-width apart, pull your body up until your chin is above the bar, and lower yourself back down with control.",
+        "muscle_group": "Back, Biceps"
+    },
+    {
+        "name": "Dumbbell Shoulder Press",
+        "img": "Dumbbell Shoulder Press",
+        "description": "The dumbbell shoulder press is an exercise that targets the shoulders. Hold a dumbbell in each hand at shoulder level, palms facing forward. Press the dumbbells overhead until your arms are fully extended, and then lower them back to the starting position.",
+        "muscle_group": "Shoulders"
+    },
+    {
+        "name": "Barbell Squat",
+        "img": "Barbell Squat",
+        "description": "The barbell squat is a compound exercise that targets the lower body. Position a barbell on your upper back, brace your core, and squat down by bending your knees and hips. Keep your chest up and back straight. Rise back up to the starting position.",
+        "muscle_group": "Quadriceps, Hamstrings, Glutes"
+    },
+    {
+        "name": "Dumbbell Bicep Curls",
+        "img": "Dumbbell Bicep Curls",
+        "description": "Dumbbell bicep curls target the biceps. Hold a dumbbell in each hand, palms facing forward, and arms fully extended. Curl the dumbbells up towards your shoulders, keeping your elbows stationary. Lower the dumbbells back down to the starting position.",
+        "muscle_group": "Biceps"
+    },
+    {
+        "name": "Lying Leg Curl",
+        "img": "Lying Leg Curl",
+        "description": "The lying leg curl is an isolation exercise that targets the hamstrings. Lie face down on a leg curl machine, place your legs under the padded lever, and curl your legs up toward your glutes. Slowly lower the lever back to the starting position.",
+        "muscle_group": "Hamstrings"
+    },
+    {
+        "name": "Tricep Dips",
+        "img": "Tricep Dips",
+        "description": "Tricep dips primarily target the triceps. Position your hands shoulder-width apart on a parallel bar, extend your legs out in front of you, and lower your body by bending your elbows. Push yourself back up to the starting position.",
+        "muscle_group": "Triceps"
+    },
+    {
+        "name": "Barbell Bench Press",
+        "img": "Barbell Bench Press",
+        "description": "The barbell bench press is a compound exercise that targets the chest, shoulders, and triceps. Lie on a flat bench, grip the barbell slightly wider than shoulder-width apart, lower the bar to your chest, and press it back up to the starting position.",
+        "muscle_group": "Chest, Shoulders, Triceps"
+    },
+    {
+        "name": "Plank",
+        "img": "Plank",
+        "description": "The plank is a core exercise that engages multiple muscles. Start in a push-up position, with your forearms resting on the ground. Keep your body in a straight line from head to toe, engaging your core muscles. Hold this position for a specific duration.",
+        "muscle_group": "Core"
+    },
+    {
+        "name": "Barbell Bent-Over Row",
+        "img": "Barbell Bent-Over Row",
+        "description": "The barbell bent-over row targets the back muscles. Stand with feet shoulder-width apart, bend your knees slightly, and lean forward. Hold a barbell with palms facing down, and row the barbell toward your abdomen by pulling your elbows back. Return to the starting position.",
+        "muscle_group": "Back"
+    },
+    {
+        "name": "Russian Twist",
+        "img": "Russian Twist",
+        "description": "The Russian twist is an abdominal exercise. Sit on the ground, lift your feet off the floor, and lean back slightly. Rotate your torso from side to side, touching the ground with your hands on each side. Keep your core engaged throughout the movement.",
+        "muscle_group": "Abdominals"
+    },
+    {
+        "name": "Calf Raises",
+        "img": "Calf Raises",
+        "description": "Calf raises target the calf muscles. Stand on the edge of a step or platform with the balls of your feet on the surface. Raise your heels as high as possible by pushing up with your toes. Lower your heels back down to the starting position.",
+        "muscle_group": "Calves"
+    },
+    {
+      "name": "Hanging Leg Raises",
+      "img": "Hanging Leg Raises",
+      "description": "Hanging leg raises target the lower abs and hip flexors. Hang from a pull-up bar with your arms fully extended, and raise your legs up while keeping them straight. Lift until your legs are parallel to the floor, and then lower them back down slowly.",
+      "muscle_group": "Lower Abs, Hip Flexors"
+    },
+    {
+      "name": "Single-Leg Romanian Deadlift",
+      "img": "Single-Leg Romanian Deadlift",
+      "description": "The single-leg Romanian deadlift is a unilateral exercise that targets the hamstrings and glutes. Stand with your feet hip-width apart, lift one leg off the ground, and hinge forward at the hips while keeping your back straight. Lower the dumbbell down while extending your lifted leg straight behind you. Return to the starting position and repeat on the other leg.",
+      "muscle_group": "Hamstrings, Glutes"
+    },
+    {
+      "name": "Renegade Rows",
+      "img": "Renegade Rows",
+      "description": "Renegade rows are a compound exercise that target the back and core muscles. Start in a high plank position with a dumbbell in each hand. Row one dumbbell up to your side while keeping your core engaged and hips stable. Lower the dumbbell back down and repeat on the other side.",
+      "muscle_group": "Back, Core"
+    },
+    {
+      "name": "Box Jumps",
+      "img": "Box Jumps",
+      "description": "Box jumps are a plyometric exercise that target the leg muscles and explosiveness. Stand in front of a sturdy box or platform. Bend your knees and jump explosively onto the box, landing with soft knees. Step down and repeat the jump.",
+      "muscle_group": "Legs, Explosiveness"
+    },
+    {
+      "name": "Medicine Ball Slams",
+      "img": "Medicine Ball Slams",
+      "description": "Medicine ball slams are a full-body exercise that improve power and coordination. Hold a medicine ball with both hands, lift it overhead, and forcefully slam it down to the ground. Catch the rebound and repeat the movement.",
+      "muscle_group": "Full Body"
+    },
+    {
+      "name": "Battle Rope Waves",
+      "img": "Battle Rope Waves",
+      "description": "Battle rope waves are a cardio and upper body exercise. Hold the ends of a battle rope in each hand with your feet shoulder-width apart. Alternate raising and lowering each arm rapidly, creating waves in the rope.",
+      "muscle_group": "Upper Body, Cardio"
+    },
+    {
+      "name": "Plyometric Push-ups",
+      "img": "Plyometric Push-ups",
+      "description": "Plyometric push-ups are an explosive variation of the push-up exercise. Start in a high plank position, lower your chest toward the ground, and explosively push off the ground, allowing your hands to leave the surface momentarily. Land softly and immediately go into the next repetition.",
+      "muscle_group": "Chest, Shoulders, Triceps"
+    },
+    {
+      "name": "Hanging Windshield Wipers",
+      "img": "Hanging Windshield Wipers",
+      "description": "Hanging windshield wipers are an advanced core exercise that target the obliques and abdominals. Hang from a pull-up bar with your arms fully extended. Raise your legs while keeping them straight and rotate them from side to side, mimicking a windshield wiper motion.",
+      "muscle_group": "Obliques, Abdominals"
+    },
+    {
+      "name": "Farmers Walk",
+      "img": "Farmers Walk",
+      "description": "The farmer's walk is a functional exercise that strengthens the grip and works the entire body. Hold a heavy dumbbell or kettlebell in each hand and walk with a tall posture for a specified distance or time.",
+      "muscle_group": "Full Body, Grip"
+    },
+    {
+      "name": "Burpees",
+      "img": "Burpees",
+      "description": "Burpees are a full-body exercise that combines a squat, push-up, and jump. Start in a standing position, squat down, place your hands on the ground, kick your feet back into a push-up position, perform a push-up, jump your feet back in, and explosively jump up with your arms overhead.",
+      "muscle_group": "Full Body"
+    },
+    {
+      "name": "Kettlebell Swings",
+      "img": "Kettlebell Swings",
+      "description": "Kettlebell swings are a dynamic exercise that targets the hips, glutes, and core. Stand with feet shoulder-width apart, hold a kettlebell with both hands between your legs, and swing it up to shoulder level by extending your hips and squeezing your glutes. Allow the kettlebell to swing back down and repeat the movement.",
+      "muscle_group": "Hips, Glutes, Core"
+    },
+    {
+      "name": "Box Step-Ups",
+      "img": "Box Step-Ups",
+      "description": "Box step-ups are a lower body exercise that primarily target the quadriceps, hamstrings, and glutes. Stand in front of a sturdy box or platform, place one foot on the box, and step up by extending your knee and hip. Step back down and repeat on the other leg.",
+      "muscle_group": "Quadriceps, Hamstrings, Glutes"
+    },
+    {
+      "name": "Cable Woodchops",
+      "img": "Cable Woodchops",
+      "description": "Cable woodchops are a rotational exercise that engage the core, obliques, and shoulders. Stand perpendicular to a cable machine with the handle set at shoulder height. Hold the handle with both hands, rotate your torso away from the machine, and pull the handle diagonally across your body.",
+      "muscle_group": "Core, Obliques, Shoulders"
+    },
+    {
+      "name": "Inverted Rows",
+      "img": "Inverted Rows",
+      "description": "Inverted rows target the back muscles and improve upper body strength. Set up a barbell at hip height or use suspension straps. Lie underneath the bar or straps, grasp them with an overhand grip, and pull your chest towards the bar by retracting your shoulder blades. Lower yourself back down and repeat the movement.",
+      "muscle_group": "Back"
+    },
+    {
+      "name": "Lateral Lunges",
+      "img": "Lateral Lunges",
+      "description": "Lateral lunges are a lower body exercise that target the inner and outer thighs, glutes, and quadriceps. Start with feet hip-width apart, take a wide step to the side with your right foot, shift your body weight to your right leg, and lower into a lunge position. Push back up to the starting position and repeat on the other side.",
+      "muscle_group": "Inner and Outer Thighs, Glutes, Quadriceps"
+    },
+    {
+      "name": "Reverse Flyes",
+      "img": "Reverse Flyes",
+      "description": "Reverse flyes focus on the posterior deltoids and upper back muscles. Hold a pair of dumbbells with palms facing each other, bend forward at the waist, and keep your back flat. Raise your arms out to the sides, squeezing your shoulder blades together. Lower the weights back down and repeat the movement.",
+      "muscle_group": "Posterior Deltoids, Upper Back"
+    },
+    {
+      "name": "Roman Chair Leg Raises",
+      "img": "Roman Chair Leg Raises",
+      "description": "Roman chair leg raises target the lower abs and hip flexors. Position yourself on a Roman chair with your forearms resting on the pads and your body hanging freely. Raise your legs up towards your chest by contracting your abs and hip flexors. Slowly lower your legs back down and repeat.",
+      "muscle_group": "Lower Abs, Hip Flexors"
+    },
+    {
+      "name": "Resistance Band Pull-Aparts",
+      "img": "Resistance Band Pull-Aparts",
+      "description": "Resistance band pull-aparts work the muscles of the upper back and shoulders. Hold a resistance band with both hands in front of you, hands shoulder-width apart. Pull the band apart by moving your hands towards your sides, squeezing your shoulder blades together. Return to the starting position and repeat.",
+      "muscle_group": "Upper Back, Shoulders"
+    },
+    {
+      "name": "Sled Pushes",
+      "img": "Sled Pushes",
+      "description": "Sled pushes are a full-body exercise that build strength and endurance. Load a sled with weight plates and push it forward by driving through your legs and using your arms for assistance. Push the sled for a specified distance or time, maintaining a strong and stable posture.",
+      "muscle_group": "Full Body"
+    },
+    {
+      "name": "Tire Flips",
+      "img": "Tire Flips",
+      "description": "Tire flips are a challenging exercise that work the entire body, particularly the legs, hips, and upper body. Start by standing in front of a large tire, squat down and grip the bottom edge of the tire, then explosively extend your hips and legs to flip the tire over. Repeat for a specified number of repetitions.",
+      "muscle_group": "Full Body"
+    }
+]
